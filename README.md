@@ -1,16 +1,26 @@
-## Hi there 👋
+# LUSINDE VALENTINE ANDAHAWA
 
-<!--
-**vl-tech-eng/vl-tech-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Professional | System Administration | Network Support | Cloud Enthusiast
 
-Here are some ideas to get you started:
+A dedicated and resourceful IT Professional with over three years of experience in system administration, network support, and infrastructure maintenance within government and enterprise environments. Proven expertise in resolving complex technical issues, managing hardware and software lifecycles, and ensuring operational continuity for diverse user bases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technical Skills
+
+* **Operating Systems:** Windows 10/11, Windows Server, Linux (Ubuntu)
+* **Networking:** TCP/IP, DNS, DHCP, LAN/WAN, Firewall Configuration, Network Troubleshooting
+* **Hardware:** PC & Laptop Repair, Peripherals Configuration, Server Maintenance
+* **Databases:** MySQL, PostgreSQL, SQL Querying, Database Backup & Recovery
+* **IT Service Management (ITSM):** IT Ticketing Systems, Knowledge Base Documentation
+* **Scripting:** Basic PowerShell, Bash
+
+---
+
+### 🌱 Currently Learning
+
+* I am currently focused on deepening my skills in networking and am studying for the **CompTIA Network+** certification.
+
+### 📫 How to reach me:
+* **Email:** valelusinde08@gmail.com
+* **LinkedIn:** linkedin.com/in/valentine-lusinde
